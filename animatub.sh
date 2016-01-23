@@ -15,5 +15,5 @@ rm -r .caps
 rm -r .tub
 else
 echo "Ups, falta algo. Recuerda en este orden:
-./anima.sh https://www.youtube.com/watch?v=qwerty 00:00:00 0"
+./anima.sh https://youtu.be/qwerty 00:00:00 0"
 fi
